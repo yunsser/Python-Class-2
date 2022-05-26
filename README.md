@@ -11,3 +11,11 @@
  - 인덱싱, 슬라이싱
  - 문자열 덧셈, 곱셈
  - numpy 기본
+
+### 20220526
+ - 분산도, 조건부확률, 확률변수 및 분포
+ - cold start
+ - 주피터 경로 설정
+ - list 관련 함수
+ - ndarray (arange, zeros, ones)
+ - import pandas
