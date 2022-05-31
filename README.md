@@ -19,3 +19,11 @@
  - list 관련 함수
  - ndarray (arange, zeros, ones)
  - import pandas
+
+### 20220527
+ - basic pandas(english)
+ - numpy
+
+### 20220530
+ - Boolean_numpy, basic_pandas
+ - Boolean_Pandas
