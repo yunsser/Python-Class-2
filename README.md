@@ -34,3 +34,8 @@
  - Pandas Problem
  - df, list, dict, ndarray의 상호변환
  - Pandas index 객체
+
+### 20220602
+ - aggregation_apply_lambda
+ - if문- Basic_Review
+ - Pandas Intermediate
