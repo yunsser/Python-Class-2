@@ -39,3 +39,20 @@
  - aggregation_apply_lambda
  - if문- Basic_Review
  - Pandas Intermediate
+
+### 20220603
+ - Iris_data를 활용한 기초 머신러닝
+ - Model_selection 모듈 소개
+ - Intermediate Pandas
+
+### 20220607
+ - iris 복습
+ - Kford 복습
+ - 불균형데이터
+ - 데이터 전처리
+ - 타이타닉 분석 예제
+
+### 20220608
+ - 
+ - 
+ - 
