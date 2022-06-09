@@ -56,3 +56,6 @@
  - 인코딩
  - Titanic 예제
  - 그리드 서치 (Grid_Seach)
+
+### 20220609
+ - Human_Activity_preprocessing
