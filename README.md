@@ -68,3 +68,12 @@
 ### 20220613
  - 스마트폰 사람행동분류
  - Matplotlib 기본사용법
+
+### 20220614
+ - 위스콘신_유방암_예측-lgbm적용
+
+### 20220615
+ - LightGBM
+ - Breast_Cancer_voting_classifier
+ - pima_indian_diabetes_final
+ - 스태킹 앙상블
